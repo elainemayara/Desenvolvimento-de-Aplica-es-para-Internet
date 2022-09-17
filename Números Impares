@@ -1,7 +1,8 @@
-fun main( args: Array<String> ) 
-Var x =0
-    for  (numero in 1..1000) {
-            if(numero % 2 == 1){
-                println(numero)) 
+fun main( args: Array<String> ){
+val numero = null
+for  (numero in 1..1000) {
+    if(numero % 2 == 1)
+        println(numero)
+
 }
-}
+    }
